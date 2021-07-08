@@ -14,7 +14,7 @@ Tutorials
     - [Cluster](#cluster)
 - [Configuration Files](#configuration-files)
 - [Messaging Protocols](#messaging-protocols)
-- [Deamon](#deamon)
+- [Deamons](#deamon)
  ----------------------------------
 
 ### [What is Actor](#what-is-actor)
@@ -25,4 +25,4 @@ Tutorials
 ### [Cluster](#cluster) 
 ### [Configuration Files](#configuration-files)
 ### [Messaging Protocols](#messaging-protocols)
-### [Deamon](#deamon)
+### [Deamons](#deamon)
