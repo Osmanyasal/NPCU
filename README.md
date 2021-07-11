@@ -19,7 +19,7 @@ Tutorials
 
 ### [What is Actor](#what-is-actor)
 ![Blank diagram](https://user-images.githubusercontent.com/22853419/125189347-53675f80-e240-11eb-94bd-a298174fdcf7.png)
-
+The thing that you must remember is actors are closed systems so actor interections only happen via message passing. Because they're closed systems all Actors are <b>Thread safe </b> by their nature. We only need to synchronize the queue for input messsges and that's all. 
 ### [What is a Node](#what-is-a-node)
 ![Blank diagram](https://user-images.githubusercontent.com/22853419/125190243-d7bbe180-e244-11eb-901f-37f8782c9326.png)
 
