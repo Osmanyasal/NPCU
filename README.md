@@ -7,8 +7,7 @@ NPCU is an api specification that can be implemented on any object oriented prog
 Tutorials
 =============================
 - [What is Actor](#what-is-actor)
-- [What is a Node](#what-is-a-node)![image](https://user-images.githubusercontent.com/22853419/125189381-7e51b380-e240-11eb-94ad-75ab2ce7c4b5.png)
-
+- [What is a Node](#what-is-a-node)
     - [Basic Node](#basic-node)
     - [Router](#router)
     - [Gateway](#gateway)
