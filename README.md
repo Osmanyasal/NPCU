@@ -24,6 +24,8 @@ The thing that you must remember is actors are closed systems so actor interecti
 ![Blank diagram](https://user-images.githubusercontent.com/22853419/125190243-d7bbe180-e244-11eb-901f-37f8782c9326.png)
 
 ### [Basic Node](#basic-node)
+![NPCU](https://user-images.githubusercontent.com/22853419/125205520-4b80dd00-e28b-11eb-9ec6-833ffa57f7ec.png)
+
 ### [Router](#router)
 ### [Gateway](#gateway)
 ### [Cluster](#cluster) 
