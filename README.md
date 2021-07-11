@@ -5,7 +5,7 @@
 NPCU is an api specification that can be implemented on any object oriented programming language.<br>
 **With NPCU we intented to allow programmers to be able to write multithreaded applicaitons without knowing any parallel programming concepts.**
 
-Tutorials
+Index
 =============================
 - [What is Actor](#what-is-actor)
 - [What is a Node](#what-is-a-node)
