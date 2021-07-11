@@ -15,6 +15,7 @@ Tutorials
 - [Configuration Files](#configuration-files)
 - [Messaging Protocols](#messaging-protocols)
 - [Deamons](#deamons)
+- [UML](#uml)
  ----------------------------------
 
 ### [What is Actor](#what-is-actor)
@@ -32,3 +33,4 @@ The thing that you must remember is actors are closed systems so actor interecti
 ### [Configuration Files](#configuration-files)
 ### [Messaging Protocols](#messaging-protocols)
 ### [Deamons](#deamons)
+### [UML](#uml)
