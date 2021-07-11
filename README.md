@@ -1,3 +1,4 @@
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 # NPCU
 **N**ode based **P**arallel **C**omputing **U**nits(API)
 ![NPCU_first](https://user-images.githubusercontent.com/22853419/125204863-fb544b80-e287-11eb-9f81-7a90bd5c56ca.png)
