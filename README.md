@@ -15,6 +15,8 @@ Tutorials
     - [Cluster](#cluster)
 - [Configuration Files](#configuration-files)
 - [Messaging Protocols](#messaging-protocols)
+- [Cancelation Protocols](#cancelation-protocols)
+- [Termination Protocols](#termination-protocols)
 - [Deamons](#deamons)
 - [UML](#uml)
  ----------------------------------
@@ -35,5 +37,7 @@ The thing that you must remember is actors are closed systems so actor interecti
 ### [Cluster](#cluster) 
 ### [Configuration Files](#configuration-files)
 ### [Messaging Protocols](#messaging-protocols)
+### [Cancelation Protocols](#cancelation-protocols)
+### [Termination Protocols](#termination-protocols)
 ### [Deamons](#deamons)
 ### [UML](#uml)
