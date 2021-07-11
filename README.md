@@ -34,7 +34,9 @@ The thing that you must remember is actors are closed systems so actor interecti
 ![image](https://user-images.githubusercontent.com/22853419/125206362-93a1fe80-e28f-11eb-905f-772b3af23280.png)
 
 ### [Gateway](#gateway)
+![NPCU-3](https://user-images.githubusercontent.com/22853419/125206836-dd8be400-e291-11eb-9b49-0525bedf8b99.png)
 ### [Cluster](#cluster) 
+![NPCU-2](https://user-images.githubusercontent.com/22853419/125206790-aa495500-e291-11eb-89e4-93b5d2d245bb.png)
 ### [Configuration Files](#configuration-files)
 ### [Messaging Protocols](#messaging-protocols)
 ### [Cancelation Protocols](#cancelation-protocols)
