@@ -38,6 +38,8 @@ The thing that you must remember is actors are closed systems so actor interecti
 ### [Cluster](#cluster) 
 ![NPCU-2](https://user-images.githubusercontent.com/22853419/125206790-aa495500-e291-11eb-89e4-93b5d2d245bb.png)
 ### [Configuration Files](#configuration-files)
+![NPCU-5](https://user-images.githubusercontent.com/22853419/125262276-b7eef100-e30a-11eb-8e4c-3a842b942190.png)
+
 ### [Messaging Protocols](#messaging-protocols)
 ### [Cancelation Protocols](#cancelation-protocols)
 ### [Termination Protocols](#termination-protocols)
