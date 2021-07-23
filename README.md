@@ -1,4 +1,5 @@
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)<br>
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)<br>  
+
 # NPCU
 **N**ode based **P**arallel **C**omputing **U**nits(API)
 ![NPCU_first](https://user-images.githubusercontent.com/22853419/125204863-fb544b80-e287-11eb-9f81-7a90bd5c56ca.png)
@@ -45,3 +46,7 @@ The thing that you must remember is actors are closed systems so actor interecti
 ### [Termination Protocols](#termination-protocols)
 ### [Deamons](#deamons)
 ### [UML](#uml)
+<hr> 
+<img src = "https://user-images.githubusercontent.com/22853419/126822611-708fb803-f99e-4fa7-9509-2fb724123d4c.png"/><br>
+<b>This software is totally free(libre)</b>!<br> 
+<b>Free software</b> means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
