@@ -47,6 +47,6 @@ The thing that you must remember is actors are closed systems so actor interecti
 ### [Deamons](#deamons)
 ### [UML](#uml)
 <hr> 
-<img src = "https://user-images.githubusercontent.com/22853419/126822611-708fb803-f99e-4fa7-9509-2fb724123d4c.png"/><br>
+<img src = "https://user-images.githubusercontent.com/22853419/126822611-708fb803-f99e-4fa7-9509-2fb724123d4c.png" width="150" height="150"/><br>
 <b>This software is totally free(libre)</b>!<br> 
 <b>Free software</b> means that the users have the freedom to run, edit, contribute to, and share the software. Thus, free software is a matter of liberty, not price.
